@@ -1,0 +1,9 @@
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketClient\bin\Debug\SocketClient.exe
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketClient\bin\Debug\SocketClient.pdb
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketClient\obj\Debug\SocketClient.Form1.resources
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketClient\obj\Debug\SocketClient.exe
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketClient\obj\Debug\SocketClient.pdb
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache

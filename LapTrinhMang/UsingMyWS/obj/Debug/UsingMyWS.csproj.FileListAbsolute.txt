@@ -1,0 +1,10 @@
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UsingMyWS\bin\Debug\UsingMyWS.exe.config
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UsingMyWS\bin\Debug\UsingMyWS.exe
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UsingMyWS\bin\Debug\UsingMyWS.pdb
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UsingMyWS\obj\Debug\UsingMyWS.csprojAssemblyReference.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UsingMyWS\obj\Debug\UsingMyWS.Form1.resources
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UsingMyWS\obj\Debug\UsingMyWS.Properties.Resources.resources
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UsingMyWS\obj\Debug\UsingMyWS.csproj.GenerateResource.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UsingMyWS\obj\Debug\UsingMyWS.csproj.CoreCompileInputs.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UsingMyWS\obj\Debug\UsingMyWS.exe
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UsingMyWS\obj\Debug\UsingMyWS.pdb

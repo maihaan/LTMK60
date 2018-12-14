@@ -1,0 +1,9 @@
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\TCPClient\bin\Debug\TCPClient.exe
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\TCPClient\bin\Debug\TCPClient.pdb
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\TCPClient\obj\Debug\TCPClient.exe
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\TCPClient\obj\Debug\TCPClient.pdb
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache

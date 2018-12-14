@@ -1,0 +1,5 @@
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UDPServer\bin\Debug\UDPServer.exe
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UDPServer\bin\Debug\UDPServer.pdb
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UDPServer\obj\Debug\UDPServer.exe
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\UDPServer\obj\Debug\UDPServer.pdb

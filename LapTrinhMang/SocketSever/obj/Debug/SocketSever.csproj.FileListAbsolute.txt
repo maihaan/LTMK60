@@ -1,0 +1,9 @@
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketSever\bin\Debug\SocketSever.exe
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketSever\bin\Debug\SocketSever.pdb
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketSever\obj\Debug\SocketSever.Form1.resources
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketSever\obj\Debug\SocketSever.Properties.Resources.resources
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketSever\obj\Debug\SocketSever.csproj.GenerateResource.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketSever\obj\Debug\SocketSever.csproj.CoreCompileInputs.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketSever\obj\Debug\SocketSever.exe
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketSever\obj\Debug\SocketSever.pdb
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\SocketSever\obj\Debug\SocketSever.csprojAssemblyReference.cache

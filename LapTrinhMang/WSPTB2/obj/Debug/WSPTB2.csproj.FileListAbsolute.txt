@@ -1,0 +1,7 @@
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\WSPTB2\bin\WSPTB2.dll.config
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\WSPTB2\bin\WSPTB2.dll
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\WSPTB2\bin\WSPTB2.pdb
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\WSPTB2\obj\Debug\WSPTB2.csprojAssemblyReference.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\WSPTB2\obj\Debug\WSPTB2.csproj.CoreCompileInputs.cache
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\WSPTB2\obj\Debug\WSPTB2.dll
+D:\Projects\LapTrinhMangK60HL\LapTrinhMang\WSPTB2\obj\Debug\WSPTB2.pdb
